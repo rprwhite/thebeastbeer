@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "0eaa9b5c68688d81",
+    "id": "15685b46650d952e",
     "type": "split",
     "children": [
       {
-        "id": "217842ae18ded573",
+        "id": "ac2c2c4f84e86dae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beers/George.md",
-            "mode": "source"
+            "file": "Beasts.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,70 +19,84 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "781492498e4ca0e0",
-    "type": "mobile-drawer",
+    "id": "0ded615350923884",
+    "type": "split",
     "children": [
       {
-        "id": "16b1440f2cf780df",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "cf99419e1b32a475",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b1aa4ffc41f33f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c95c90e1a550a9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "144884098ffa9d26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "7706546a16cf0a55",
-    "type": "mobile-drawer",
+    "id": "49007261fea377d1",
+    "type": "split",
     "children": [
       {
-        "id": "11f6c879f6b4fa00",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Beers/George.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "c648fb8b1463ea88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6b36163c7ec8ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Beasts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27fd14fa546d2e84",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "887b367a85a5e77b",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "217842ae18ded573",
+  "active": "ac2c2c4f84e86dae",
   "lastOpenFiles": [
-    "Beers/George.md",
     "Beasts.md",
     "Beers/Richard.md",
     "Beers/Kat.md"
