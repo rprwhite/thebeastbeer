@@ -1,5 +1,8 @@
 # Richard
+Type:: Beer
 Style:: Dark Sour
-Current Release:: N/A
-Next Release:: May
+Current Release:: None
+Next Release:: None
+Next Release Date:: None
+
 
