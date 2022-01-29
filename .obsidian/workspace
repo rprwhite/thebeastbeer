@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beasts.md",
-            "mode": "source",
-            "source": false
+            "file": "About.md",
+            "mode": "source"
           }
         }
       }
@@ -19,84 +18,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0ded615350923884",
-    "type": "split",
+    "id": "77948403a58d2888",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b1aa4ffc41f33f62",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c95c90e1a550a9d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "144884098ffa9d26",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "d181a7a601d85293",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a96aa17494e5f294",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "49007261fea377d1",
-    "type": "split",
+    "id": "474988011d991286",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c648fb8b1463ea88",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8d6b36163c7ec8ad",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Beasts.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "27fd14fa546d2e84",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
+        "id": "29016c2ac0a2cc91",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "163e3a23fdb1a70c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "About.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "ac2c2c4f84e86dae",
   "lastOpenFiles": [
+    "About.md",
     "Beasts.md",
     "Beers/Richard.md",
     "Beers/Kat.md"
