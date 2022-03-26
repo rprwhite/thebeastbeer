@@ -1,6 +1,6 @@
 # Brewery upgrades
 ## Purchase list
-| Item                 | Quantity | Cost, each ($) | Cost, subtotal (\$) | Link                                                                                                  |
+| Item                 | Quantity | Cost, each ($) | Cost, subtotal ($) | Link                                                                                                  |
 | -------------------- | -------- | --------------:| -------------------:| ----------------------------------------------------------------------------------------------------- |
 | Fake Ivy             | 6        |          36.98 |              221.88 | https://www.bunnings.com.au/lotus-collection-2-x-1m-light-ivy-cloth-artificial-hedge-trellis_p0170944 |
 | Conduit              | 1        |          10.50 |               10.50 | https://www.bunnings.com.au/deta-20mm-x-10m-medium-duty-corrugated-conduit_p4330837                   |
