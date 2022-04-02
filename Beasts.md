@@ -21,10 +21,17 @@
 - [[Kat]]
 - [[TBA2]]
 
+- ### Margot
+	- Sour Saison
+- Jack
+	- Dry Saison 'lager style'
+- 3
+	- 
 # Coffee
 ## Core
 - [[Dave]]
 - [[Neil]]
+- [[Karl]]
 
 ## Limited Release
 - [[Chris]]
