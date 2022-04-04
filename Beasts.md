@@ -40,6 +40,15 @@
 
 
 ### Farmhouse
+Working man/woman, or old person imagery: 
+- Cowboy hat
+- Tenis cap
+- Shovel
+- Miner's helmet
+- Scythe
+- Bell
+
+#### Styles
 - Sour Saison
 - Saison
 - Grisette
@@ -48,14 +57,31 @@
 - Amber Saison
 - Wheat Saison
 - Blonde Ale (trappist)
+- Dry Hopped Saison
 
 ### Fruited Sour
+Whimsical, or nursery rhyme, imagery:
+- Fox ears
+- Walking/candy cane
+- Bucket/pail of water
+- Crazy, eye, glasses
+- 'Humphrey bear style' hat
+- Alice in wonderland cat smile*
+
+#### STyles
 - Elderflower
 - Citrus
 - Grapes
 - Blueberries
 
 ### IPA
+Beach, outdoor fun related, imagery:
+- Sunglasses
+- Bathers
+- Tennis ball on pole and string
+- Umbrella/parasol
+- 
+- Alice in wonderland cat smile*
 - DIPA
 - Cream IPA
 - NEIPA
