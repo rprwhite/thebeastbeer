@@ -80,6 +80,7 @@ Beach, outdoor fun related, imagery:
 - Bathers
 - Tennis ball on pole and string
 - Umbrella/parasol
+- Rugby boots
 - 
 - Alice in wonderland cat smile*
 - DIPA
