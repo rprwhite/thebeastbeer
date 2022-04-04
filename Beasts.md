@@ -80,9 +80,11 @@ Beach, outdoor fun related, imagery:
 - Bathers
 - Tennis ball on pole and string
 - Umbrella/parasol
-- Rugby boots
-- 
+- Flip-flops/thongs
+- Binoculars
 - Alice in wonderland cat smile*
+
+#### Styles
 - DIPA
 - Cream IPA
 - NEIPA
