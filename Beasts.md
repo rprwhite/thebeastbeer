@@ -37,3 +37,29 @@
 - [[Chris]]
 - [[Jill]]
 - [[Morgan]]
+
+
+### Farmhouse
+- Sour Saison
+- Saison
+- Grisette
+- Fruited Saison
+- Dark Saison
+- Amber Saison
+- Wheat Saison
+- Blonde Ale (trappist)
+
+### Fruited Sour
+- Elderflower
+- Citrus
+- Grapes
+- Blueberries
+
+### IPA
+- DIPA
+- Cream IPA
+- NEIPA
+- Hazy
+- Fruited
+- Session (midstrength)
+- 'West Coast'
