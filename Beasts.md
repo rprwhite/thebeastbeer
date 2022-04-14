@@ -1,5 +1,5 @@
 # Beer
-## Core
+#### Names
 - [[Jack]]
 - [[Margot]]
 - [[Gretal]]
@@ -7,8 +7,6 @@
 - [[Hugh]]
 - [[Leonard]]
 - [[George]]
-
-## Limited Release
 - [[Franco]]
 - [[Humphrey]]
 - [[Edna]]
@@ -19,21 +17,10 @@
 - [[Karen]]
 - [[Logan]]
 - [[Kat]]
-- [[TBA2]]
-
-- ### Margot
-	- Sour Saison
-- Jack
-	- Dry Saison 'lager style'
-- 3
-	- 
-# Coffee
-## Core
+- [[Alice]]
 - [[Dave]]
 - [[Neil]]
 - [[Karl]]
-
-## Limited Release
 - [[Chris]]
 - [[Jill]]
 - [[Morgan]]
@@ -92,3 +79,10 @@ Beach, outdoor fun related, imagery:
 - Fruited
 - Session (midstrength)
 - 'West Coast'
+
+#### Release schedule
+1. Gretal II
+2. Edna II
+3. Alice
+4. Jack II
+5. George II
