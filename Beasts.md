@@ -81,10 +81,10 @@ Beach, outdoor fun related, imagery:
 - 'West Coast'
 
 #### Release schedule
-1. Edna II
-2. George II
-4. Gretal II
-3. Jack II
+1. Edna II (Pastry Sour)
+2. George II (Cream IPA)
+4. Gretal II (Fruited Sour)
+3. Jack II (Farmhouse Lager)
 5. Alice (Sour Saison)
 6. Bishop (Barrel Aged IPA)
 7. 
