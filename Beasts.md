@@ -86,5 +86,6 @@ Beach, outdoor fun related, imagery:
 4. Gretal II
 3. Jack II
 5. Alice
-6. 
+6. Hero
 7. 
+8. 
