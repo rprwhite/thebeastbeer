@@ -92,4 +92,6 @@ Beach, outdoor fun related, imagery:
 	1. ? (Dark Fruited Saison), 2022-06-06
 	2. ? (Hazy IPA), 2022-06-13
 	3. ? (Fruited Sour), 2022-06-20
-	4. 
+	4. ? (Amber Saison), 2022-06-27
+	5. ? (DIPA), 2022-07-04
+	6. 
