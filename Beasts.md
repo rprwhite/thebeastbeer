@@ -83,8 +83,8 @@ Beach, outdoor fun related, imagery:
 #### Release schedule
 1. Edna II
 2. George II
-3. Jack II
 4. Gretal II
+3. Jack II
 5. Alice
 6. 
 7. 
