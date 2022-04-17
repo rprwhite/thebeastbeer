@@ -85,7 +85,7 @@ Beach, outdoor fun related, imagery:
 2. George II
 4. Gretal II
 3. Jack II
-5. Alice
-6. Hero
+5. Alice (Sour Saison)
+6. Bishop (Barrel Aged IPA)
 7. 
 8. 
