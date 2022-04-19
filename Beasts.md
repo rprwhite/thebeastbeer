@@ -85,15 +85,15 @@ Beach, outdoor fun related, imagery:
 	1. Edna II (Pastry Sour), 2022-04-25
 	2. Gretal II (Fruited Sour), 2022-05-02
 	3. Bishop (Barrel Aged IPA), 2022-05-09
-	4. Jack II (Farmhouse Lager), 2022-05-16
+	4. Jack II (Farmhouse Lager), 2022-05-23
 	5. Alice (Sour Saison), 2022-05-23
-	6. Leonard II (Session IPA), 2022-05-30
+	6. Leonard II (Session IPA), 2022-05-23
 2. 
-	1. ? (Dark Fruited Saison), 2022-06-06
-	2. ? (Hazy IPA), 2022-06-13
+	1. ? (Dark Fruited Saison), 2022-06-20
+	2. ? (Hazy IPA), 2022-06-20
 	3. ? (Fruited Sour), 2022-06-20
-	4. ? (Amber Saison), 2022-06-27
-	5. ? (DIPA), 2022-07-04
+	4. ? (Amber Saison), 2022-07-11
+	5. ? (DIPA), 2022-07-11
 	6. ? (Pastry Sour), 2022-07-11
 3. [Increase batch size to 500L]
 	1. ? (?), 2022-07-25
