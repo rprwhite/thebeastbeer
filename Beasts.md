@@ -83,11 +83,11 @@ Beach, outdoor fun related, imagery:
 #### Release schedule
 1. 
 	1. Edna II (Pastry Sour), 2022-04-25
-	2. George II (Cream IPA), 2022-05-02
+	2. Bishop (Barrel Aged IPA), 2022-05-02
 	3. Gretal II (Fruited Sour), 2022-05-09
 	4. Jack II (Farmhouse Lager), 2022-05-16
 	5. Alice (Sour Saison), 2022-05-23
-	6. Bishop (Barrel Aged IPA), 2022-05-30
+	6. , 2022-05-30
 2. 
 	1. ? (Dark Fruited Saison), 2022-06-06
 	2. ? (Hazy IPA), 2022-06-13
