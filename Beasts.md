@@ -80,10 +80,10 @@ Beach, outdoor fun related, imagery:
 - Session (midstrength)
 - 'West Coast'
 
-#### Release schedule
+### Release schedule
 1. 
 	1. Edna II (Pastry Sour), 2022-04-25
-	2. Gretal II (Fruited Sour), 2022-05-02
+	2. Gretel II (Fruited Sour), 2022-05-02
 	3. Bishop (Barrel Aged IPA), 2022-05-09
 	4. Jack II (Farmhouse Lager), 2022-05-23
 	5. Alice (Sour Saison), 2022-05-23
