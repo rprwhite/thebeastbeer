@@ -147,3 +147,8 @@ Upcoming sours for which labels are needed:
 	- Colour: Dark red-pink (as before)
 	- Image: I'm thinking the edna glasses in a waffle cone, maybe with ice-cream maybe not
 	- Story: She's like a decadent strawberry ice-cream, including the waffle cone, turned into a sour beer. 
+- Gretel II
+	- Style: Fruited Sour
+	- Colour: Yellow-green (as before)
+	- Image: The fox ears riding a bunch of elderflower
+	- Story: As we're coming to the cooler months she's bigger, bolder, and a bit more crazy. Now fruited with elderflower, kakadu plum, and burnt honey.
