@@ -109,3 +109,9 @@ Beach, outdoor fun related, imagery:
 	4. ? (?), 2022-10-30
 	5. ? (?), 2022-10-30
 	6. ? (?), 2022-10-30
+
+
+### Mail to: Brett
+Time for the next step for The Beast's marketing.
+I've been talking to MCC about making the colours pop and they sent a heap of samples with shiny/metal as the base. It changed the labels alot more than I expected. I'd like to go with a 75% base, which lets the colour be bold and still adds a nice shine, making the colour look just a little more complex. Not really any change need on your end there, just wanted to keep you up to date.
+I would like to remove the balck line at the bottom of the can, and the text that was there with it - just have colour top to bottom.
