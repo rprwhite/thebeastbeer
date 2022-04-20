@@ -143,4 +143,7 @@ Upcoming farmhouse ales for which labels are needed:
 Fruited Sours are fun beers, an explosion of flavour. The sort beer that leaves you confused and bewildered, but with a massive grin. The imagery should be reminiscient of fairy-tales or silliness, ideally with just a bit more going on than the current sour labels. The overall theme here is fun and whimsy.
 Upcoming sours for which labels are needed:
 - Edna II
-	- Style: 
+	- Style: Pastry Sour
+	- Colour: Dark red-pink (as before)
+	- Image: I'm thinking the edna glasses in a waffle cone, maybe with ice-cream maybe not
+	- Story: She's like a decadent strawberry ice-cream, including the waffle cone, turned into a sour beer. 
