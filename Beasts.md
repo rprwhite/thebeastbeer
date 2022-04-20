@@ -132,4 +132,7 @@ Upcoming farmhouse ales for which labels are needed:
 	- Style: Common Farmhouse Ale
 	- Colour: Yellow
 	- Image: A cowboy hat leaning against an invisible wall and a pair of running shoes in front of it.
-	- Story
+	- Story: 
+- Alice
+	- Style: Sour Saison
+	- Colour: 
