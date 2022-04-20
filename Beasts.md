@@ -160,3 +160,9 @@ Upcoming Gluten Free IPAs for which labels are needed:
 	- Colour: Orangey-purple
 	- Image: A pair of thongs/flip-flops, maybe one mid-step, with footprints behind them going off into the distance.
 	- Story: He's been in barrel for quite some time and he's a uniquely beast thing. He's also something I'll be doing more of - so if we can knock this one out of the park it would be awesome.
+- Leonard II
+	- Style: Session IPA
+	- Colour: Blue (as before)
+	- Image: Mostly as before, with more white and shadow, or something, to give the shorts just little more an in-motion feeling.
+	- Story: ABV is a little lower, so he's even more focused on the session part.
+
