@@ -127,7 +127,7 @@ The brand as a whole is coming together more and more. One thing I want is use t
 
 The beer lines have also come together, they will mostly fit in one of three ranges; Farmhouse Ales, Fruited Sour, or Gluten Free IPA. They each have a bit of theme.
 
-Farmhouse Ales are complex beers which are designed to be enjoyed slowly. The imagery should be primarily related farm, or mining, work or anything that embodies old-timery. The images should also be relaxed, or seem that way (eg. a hat leaning against the \[invisible] wall, or a shirt slouched hung on one side and slouched on the other, or a mining helmet with torch on the ground).
+Farmhouse Ales are complex beers which are designed to be enjoyed slowly. The imagery should be primarily related farm, or mining, work or anything that embodies old-timery. The images should also be relaxed, or seem that way (eg. a hat leaning against an invisible wall, or a shirt hung on one side and slouched on the other, or a mining helmet with torch on the ground).
 Upcoming farmhouse ales for which labels are needed:
 - Jack II
 	- Style: Common Farmhouse Ale
@@ -140,4 +140,7 @@ Upcoming farmhouse ales for which labels are needed:
 	- Image: A high-vis work vest hung from one side with a big white strip for the reflective part. And, a rabbit when the name would go or maybe a rabbit shaped shadow.
 	- Story: Alice is a bit of a crossover between sour line and the farmhouse line so needs a bit of whimsy in the label.
 
-Fruited Sours are fun beers, an explosion of flavour
+Fruited Sours are fun beers, an explosion of flavour. The sort beer that leaves you confused and bewildered, but with a massive grin. The imagery should be reminiscient of fairy-tales or silliness, ideally with just a bit more going on than the current sour labels. The overall theme here is fun and whimsy.
+Upcoming sours for which labels are needed:
+- Edna II
+	- Style: 
