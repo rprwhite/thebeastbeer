@@ -126,13 +126,18 @@ The brand as a whole is coming together more and more. One thing I want is use t
  - A very minor thing, the first leaf (closest to the horns) has a little zig zag to it, probably just an oversight in its original creation, lets make it smooth.
 
 The beer lines have also come together, they will mostly fit in one of three ranges; Farmhouse Ales, Fruited Sour, or Gluten Free IPA. They each have a bit of theme.
-Farmhouse Ales are complex beers which are designed to be enjoyed slowly. The imagery should be primarily related farm, or mining, work or anything that embodies old-timery. The images should also be relaxed, or seem that way (eg. a hat leaning against the \[invisible] wall, or a shirt slouched hung on one side and slouched on the other).
+
+Farmhouse Ales are complex beers which are designed to be enjoyed slowly. The imagery should be primarily related farm, or mining, work or anything that embodies old-timery. The images should also be relaxed, or seem that way (eg. a hat leaning against the \[invisible] wall, or a shirt slouched hung on one side and slouched on the other, or a mining helmet with torch on the ground).
 Upcoming farmhouse ales for which labels are needed:
 - Jack II
 	- Style: Common Farmhouse Ale
-	- Colour: Yellow
+	- Colour: Yellow (as before)
 	- Image: A cowboy hat leaning against an invisible wall and a pair of running shoes in front of it.
-	- Story: 
+	- Story: Jack II is a co-ferment between lager and ale yeasts. He's a little of both worlds; the wild (cowboy hat/farmhouse yeast) and the straight-narrow (running shoes/ lager yeast).
 - Alice
 	- Style: Sour Saison
-	- Colour: 
+	- Colour: Yellowy-orange
+	- Image: A high-vis work vest hung from one side with a big white strip for the reflective part. And, a rabbit when the name would go or maybe a rabbit shaped shadow.
+	- Story: Alice is a bit of a crossover between sour line and the farmhouse line so needs a bit of whimsy in the label.
+
+Fruited Sours are fun beers, an explosion of flavour
