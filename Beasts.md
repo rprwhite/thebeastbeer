@@ -113,5 +113,9 @@ Beach, outdoor fun related, imagery:
 
 ### Mail to: Brett
 Time for the next step for The Beast's marketing.
-I've been talking to MCC about making the colours pop and they sent a heap of samples with shiny/metal as the base. It changed the labels alot more than I expected. I'd like to go with a 75% base, which lets the colour be bold and still adds a nice shine, making the colour look just a little more complex. Not really any change need on your end there, just wanted to keep you up to date.
+I've been talking to MCC about making the colours pop and they sent a heap of samples with shiny/metal as the base. It changed the labels alot more than I expected. I'd like to go with a 75% base, which lets the colour be bold and still adds a nice shine, making the colour look just a little more complex. The white and black will be matt, still. Not really any change need on your end there, just wanted to keep you up to date.
 I would like to remove the balck line at the bottom of the can, and the text that was there with it - just have colour top to bottom.
+I'd like to have a little more story in the pictograms, about where we are with the coffee is great. For some of them, like Leonard, that could be as simple as a more cast shadow. If possible I think it'd be cool to have them be "lit" from the same location, behind and to the left maybe.
+I'd like all the text (which I'll be reducing overall) to be on one side of the label, so the can as a whole reads in one direction left to right. This could also play nicely with the cast shadow.
+To help understand what I'm talking about I modified a Leonard Label (attached), if it still doesn't make sense feel free to give me a call.
+One thing not on my modified label, but will be needed, is 
