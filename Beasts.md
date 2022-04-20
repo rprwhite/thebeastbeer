@@ -153,3 +153,10 @@ Upcoming sours for which labels are needed:
 	- Image: The fox ears riding a bunch of elderflower
 	- Story: As we're coming to the cooler months she's bigger, bolder, and a bit more crazy. Now fruited with elderflower, kakadu plum, and burnt honey.
 
+The Gluten Free IPAs are hoppy beers that are great after work beers, or after running around or whatever. I've had quite a few people comment they don't feel bloated after them, compared to regular IPAs, even though the people aren't gluten intolerant - which may be something we can use in the marketing. The imagery should be primarily sporty and in-action, or movement (eg. the mid-walk of Leonard's shorts, I'd also like to change Hugh to a tethered ball-on-rope where the rope is curved around to make it look like a question mark - who/hugh joke, but that's for the future).
+Upcoming Gluten Free IPAs for which labels are needed:
+- Bishop
+	- Style: Barrel Aged IPA
+	- Colour: Orangey-purple
+	- Image: A pair of thongs/flip-flops, maybe one mid-step, with footprints behind them going off into the distance.
+	- Story: He's been in barrel for quite some time and he's a uniquely beast thing. He's also something I'll be doing more of - so if we can knock this one out of the park it would be awesome.
