@@ -120,4 +120,7 @@ I'd like all the text (which I'll be reducing overall) to be on one side of the 
 To help understand what I'm talking about I modified a Leonard Label (attached), if it still doesn't make sense feel free to give me a call.
 One thing not on my modified label, but will be needed on some, is Ⅱ (that's 2 in roman numerals) after the name as they're the second generation. Maybe as superscript after the name? Leonard is one that will need it and is a good one to get it work on as his name is probably going to be as long as it gets. This numbering of batches will continue, so keep in mind, there'll eventually be Leonard Ⅷ (8 in roman numerals) for instance.
 
-The brand as a whole is coming together more and more.
+The brand as a whole is coming together more and more. One thing I want is use the solid imprint for the beast head logo, rather than the silhouette, just the inverse really. The silhouette doesn't shrink well, too much going on. I see it as a logo that can be used either way. But, there are some changes to make it work well in both styles.
+ - I'd like the horns to be more prominent, this is particularly important for the imprint style. How exactly I leave to you, we could whole hog with big mountain goat style horns, just a tiny upward turn at the end, or somethign inbetween. Whatever you recommend here.
+ - Take the centre of the bow tie out, this balances the 'holes' top to bottom and helps reduce complexity when the logo is shrunk
+ - A very minor thing, the first leaf (closest to the horns) has a strange zig zag to it, probably just an oversight in its original construction
