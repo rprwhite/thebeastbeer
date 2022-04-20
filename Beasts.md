@@ -125,5 +125,11 @@ The brand as a whole is coming together more and more. One thing I want is use t
  - Take the centre of the bow tie out, this balances the 'holes' top to bottom and helps reduce complexity when the logo is shrunk
  - A very minor thing, the first leaf (closest to the horns) has a little zig zag to it, probably just an oversight in its original creation, lets make it smooth.
 
-The beer lines have also come together, they will mostly fit in one of three ranges; Farmhouse, Fruited Sour, or Gluten Free IPA. They each have a bit of theme.
-Farmhouse
+The beer lines have also come together, they will mostly fit in one of three ranges; Farmhouse Ales, Fruited Sour, or Gluten Free IPA. They each have a bit of theme.
+Farmhouse Ales are complex beers which are designed to be enjoyed slowly. The imagery should be primarily related farm, or mining, work or anything that embodies old-timery. The images should also be relaxed, or seem that way (eg. a hat leaning against the \[invisible] wall, or a shirt slouched hung on one side and slouched on the other).
+Upcoming farmhouse ales for which labels are needed:
+- Jack II
+	- Style: Common Farmhouse Ale
+	- Colour: Yellow
+	- Image: A cowboy hat leaning against an invisible wall and a pair of running shoes in front of it.
+	- Story
