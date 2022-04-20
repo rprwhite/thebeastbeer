@@ -159,7 +159,7 @@ Upcoming Gluten Free IPAs for which labels are needed:
 	- Style: Barrel Aged IPA
 	- Colour: Orangey-purple
 	- Image: A pair of thongs/flip-flops, maybe one mid-step, with footprints behind them going off into the distance.
-	- Story: He's been in barrel for quite some time and he's a uniquely beast thing. He's also something I'll be doing more of - so if we can knock this one out of the park it would be awesome.
+	- Story: He's been in barrel for quite some time and he's a uniquely Beast thing. He's also something I'll be doing more of - so if we can knock this one out of the park it would be awesome.
 - Leonard II
 	- Style: Session IPA
 	- Colour: Blue (as before)
