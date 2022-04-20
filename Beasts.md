@@ -123,4 +123,7 @@ One thing not on my modified label, but will be needed on some, is Ⅱ (that's 2
 The brand as a whole is coming together more and more. One thing I want is use the solid imprint for the beast head logo, rather than the silhouette, just the inverse really. The silhouette doesn't shrink well, too much going on. I see it as a logo that can be used either way. But, there are some changes to make it work well in both styles.
  - I'd like the horns to be more prominent, this is particularly important for the imprint style. How exactly I leave to you, we could whole hog with big mountain goat style horns, just a tiny upward turn at the end, or somethign inbetween. Whatever you recommend here.
  - Take the centre of the bow tie out, this balances the 'holes' top to bottom and helps reduce complexity when the logo is shrunk
- - A very minor thing, the first leaf (closest to the horns) has a strange zig zag to it, probably just an oversight in its original construction
+ - A very minor thing, the first leaf (closest to the horns) has a little zig zag to it, probably just an oversight in its original creation, lets make it smooth.
+
+The beer lines have also come together, they will mostly fit in one of three ranges; Farmhouse, Fruited Sour, or Gluten Free IPA. They each have a bit of theme.
+Farmhouse
