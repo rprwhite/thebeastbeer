@@ -168,3 +168,5 @@ Upcoming Gluten Free IPAs for which labels are needed:
 
 All the labels will have less text on the front, it was just confusing people. Can we add the pregnancy warning, as required (though the deadline is next year, let's add it now). I'm going to drop the "likes..." part and try and keep the "G'day, I'm..." part to a minimum to fit in the space. I'm thinking have the "G'day" section at the top running the full length, then a new five word description section below it, a health claim (contains gluten/lactose, etc) below that, then the rest however fits best.
 
+I'd like some imagery for merch
+Fellowship of flavour logo
