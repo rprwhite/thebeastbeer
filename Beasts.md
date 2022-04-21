@@ -112,7 +112,10 @@ Beach, outdoor fun related, imagery:
 
 
 ### Mail to: Brett
-Time for the next step for The Beast's marketing.
+G'day Brett,
+
+Hope everything's going well with you.
+Here it's time for the next step for The Beast's marketing.
 I've been talking to MCC about making the colours pop and they sent a heap of samples with shiny/metal as the base. It changed the labels alot more than I expected. I'd like to go with a 75% base, which lets the colour be bold and still adds a nice shine, making the colour look just a little more complex. The white and black will be matt, still. Not really any change need on your end there, just wanted to keep you up to date.
 I would like to remove the balck line at the bottom of the can, and the text that was there with it - just have colour top to bottom.
 I'd like to have a little more story in the pictograms, about where we are with the coffee is great. For some of them, like Leonard, that could be as simple as a more cast shadow. If possible I think it'd be cool to have them be "lit" from the same location, behind and to the left maybe.
@@ -173,5 +176,8 @@ Let's call that Milestone 1, can we get that completed and have the labels to MC
 
 For Milestone 2 I'd like to have:
 - Some Fellowship of Flavour imagery to go along with the updated logo on merch, particularly hoodies, stubby coolers, and coasters.
-I'd like some imagery for merch
-Fellowship of flavour logo
+- Some imagery for social media, particularly of the labels/cans, and a poster size/style for one of the labels - I'm thinking Alice. She's out there, a blend of two product lines, and can have an amusing tagline, "Alice, Alice, who the bloody hell is Alice?"
+Could we get that done by 23 May?
+
+Let me know your thoughts, and/or questions.
+Cheers,
