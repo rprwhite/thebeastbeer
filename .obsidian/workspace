@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beasts.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -19,69 +19,86 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fe4fcb27c9f8998f",
-    "type": "mobile-drawer",
+    "id": "ab84c3063bff8ec2",
+    "type": "split",
     "children": [
       {
-        "id": "d9e49714c68836d4",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "d5320b0d7e764e4d",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b6b419c5d9fe9158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4c7f1fdef83f45f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3646a1f3a806d8af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "82c908d307f71412",
-    "type": "mobile-drawer",
+    "id": "5c5112b9932c5451",
+    "type": "split",
     "children": [
       {
-        "id": "f8712d974d69a322",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "3b761e8a6121c437",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Beasts.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "d35ddab145f49b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bec3a8ebc8eb2e1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b86102102573a91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "ac2c2c4f84e86dae",
   "lastOpenFiles": [
+    "Untitled.md",
     "Beasts.md",
     "Cards.md",
     "About.md",
@@ -90,7 +107,6 @@
     "Believe.md",
     "Brewery upgrades.md",
     "^8aa48a.md",
-    "Beers/Morgan.md",
-    "Beers/Jane.md"
+    "Beers/Morgan.md"
   ]
 }
