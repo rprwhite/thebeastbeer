@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Website.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5c5112b9932c5451",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "ac2c2c4f84e86dae",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Website.md",
     "Beasts.md",
-    "Cards.md",
-    "About.md",
-    "README.md",
-    "Purchase Options.md",
     "Believe.md",
     "Brewery upgrades.md",
-    "^8aa48a.md",
-    "Beers/Morgan.md"
+    "Cards.md",
+    "Purchase Options.md",
+    "Untitled.md",
+    "About.md",
+    "README.md",
+    "^8aa48a.md"
   ]
 }
