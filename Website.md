@@ -1,2 +1,3 @@
 - Manage products in Stripe
 	- Webhook sync to Supabase & Square
+- 
