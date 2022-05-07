@@ -7,3 +7,5 @@
 	1. By subscription
 	2. By once-off orders
 4. Inform the visitor about the cellar door
+
+## Flow
